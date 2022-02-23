@@ -1,0 +1,6 @@
+[submodule "maespera-frontend"]
+	path = frontend 
+	url = https://github.com/MTHLily/maespera-frontend.git
+[submodule "maespera-backend"]
+	path = backend
+	url = https://github.com/MTHLily/maespera-backend.git
